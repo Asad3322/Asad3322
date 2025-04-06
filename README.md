@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">💻 Full Stack Developer | Trained at Expert B Computer Courses</h3>
 
-<p align="center">
-  <img src="https://github.com/Asad3322/Asad3322/blob/c35428f5732c8c64a68c448f70bf7acacab0ff5f/a14ed4f9-0b49-4a29-a005-f42d60876126.jpg?raw=true" width="200" style="border-radius: 50%;" alt="Muhammad Asad" />
-</p>
+
 
 ---
 
