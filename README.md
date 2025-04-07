@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: `Full Stack Development`, `Web Projects`, and `Frontend UI`
 
-- 📫 Reach me at: **sheikhasad.asif.5@gmail.com**
+- 📫 Reach me at: **sheikhasad4045@gmail.com**
 
 - ⚡ Fun fact: I love combining creativity and code to build cool stuff on the web! 🌍✨
 
